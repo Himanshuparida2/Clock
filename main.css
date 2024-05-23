@@ -1,0 +1,21 @@
+*{
+    font-weight: bold;
+}
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 20cm;
+    background-color: beige;
+}
+.clock{
+    width: 10cm;
+    height: 5cm;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 170px;
+    font-size: 2cm;
+    color:beige;
+    background-color: black;
+    border-radius: 15cm;
+}
